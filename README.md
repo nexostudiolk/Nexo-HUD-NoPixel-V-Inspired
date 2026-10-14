@@ -187,9 +187,10 @@ Need help or have suggestions?
 
 Join our community:
 
-💬 Discord: YOUR_DISCORD_LINK  
-🛒 Store: YOUR_STORE_LINK  
-
+Discord: [Join](https://discord.gg/T4ACHEzPBa)
+YouTube : [Preview](https://www.youtube.com/shorts/VBjxlZlQ_qY)
+TikTok: [Preview](https://www.tiktok.com/@nexostudiolk/video/7696514388483771700)
+Docs : [Read](https://nexo-studio.gitbook.io/nexo-studio-docs/free-scripts/nexo-hud-or-nopixel-v-inspired)
 ---
 
 # 📜 Credits
