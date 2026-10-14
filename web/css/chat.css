@@ -1,0 +1,15 @@
+/* Chat completely removed */
+.nexo-chat,
+#nexo-chat,
+.nexo-chat__bar,
+.nexo-chat__messages,
+.nexo-chat__suggestions {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    left: -9999px !important;
+}

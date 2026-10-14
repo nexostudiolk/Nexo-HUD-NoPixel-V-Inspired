@@ -1,0 +1,1 @@
+-- Built-in chat completely disabled and removed
