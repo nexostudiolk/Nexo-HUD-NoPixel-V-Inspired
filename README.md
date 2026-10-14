@@ -62,8 +62,7 @@ A modern and clean FiveM HUD inspired by the NoPixel V style, built to give your
 # ✨ Preview
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c6751de4-8011-47df-ad51-7127278f94b1![Uploading Desktop Screenshot 2026.10.14 - 10.22.07.50.png…]()
-" width="900">
+<img src="https://github.com/user-attachments/assets/c6751de4-8011-47df-ad51-7127278f94b1" width="900">
 </p>
 
 <p align="center">
